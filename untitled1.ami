@@ -130,6 +130,21 @@
         "amiStyle":{
           "pt":"LAYOUT_DEFAULT"
         },
+        "fields":[
+          {
+            "heightPx":20,
+            "l":"Button",
+            "leftPosPx":100,
+            "n":"button",
+            "style":{
+              "pt":"LAYOUT_DEFAULT"
+            },
+            "t":"buttonField",
+            "topPosPx":20,
+            "widthPx":200,
+            "zidx":1
+          }
+        ],
         "snap":20,
         "upid":"Html1"
       }
